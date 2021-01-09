@@ -1,1 +1,3 @@
-# Arous
+# Arous 
+
+Camera rig for capturing 
