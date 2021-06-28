@@ -1,3 +1,3 @@
-# Argos 
+# Argus 
 
 Camera rig for capturing 
